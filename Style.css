@@ -1,4 +1,11 @@
-﻿
+﻿/*General Styling*/
+body{
+    background-color:#fff6f0;
+}
+
+
+
+
 ﻿/*Header STYLINg*/
 #logoImg{
     width:200px;
@@ -32,4 +39,10 @@ nav#navvy.navbar.navbar-static-top{
 }
 h1.container#trailer{
     text-align:right;
+}
+/*preview */
+
+
+.previewThem{
+    margin:auto;
 }
