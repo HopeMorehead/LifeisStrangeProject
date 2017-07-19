@@ -22,3 +22,14 @@ nav#navvy.navbar.navbar-static-top{
 #navvy a:hover{
     background:none;
 }
+
+/*trailer section styling*/
+
+.mainSec{
+
+    background-image:url('images/junkyard.jpg');
+    background-size:cover;
+}
+h1.container#trailer{
+    text-align:right;
+}
